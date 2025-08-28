@@ -1,6 +1,6 @@
 # Lumo AI Chat Sidebar
 
-Proton provides a new AI Chat assistant named Lumo. Focused on privacy and security, it could be a good assistant for everyday tasks in your browser.
+Proton provides a new AI Chat assistant named [Lumo](https://lumo.proton.me/about). Focused on privacy and security, it could be a good assistant for everyday tasks in your browser.
 
 This extension allows you to open the Lumo AI chat interface on the sidebar. It feels much like the Microsoft Edge Copilot sidebar. And with the help of Lumo AI, you're using AI with no personal data and privacy compromise.
 
