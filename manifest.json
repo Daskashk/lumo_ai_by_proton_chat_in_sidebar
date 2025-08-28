@@ -5,7 +5,8 @@
   "description": "(Unofficial) Running Lumo by Proton anonymously on a browser sidebar.",
   "browser_specific_settings": {
     "gecko": {
-      "id": "{f3317023-86ed-42da-844c-441903fd1a39}"
+      "id": "{f36bdac8-e4a5-45f5-bcf0-33127a2b36ba}"
+      "strict_min_version": "60.0"
     }
   },
   "commands": {
