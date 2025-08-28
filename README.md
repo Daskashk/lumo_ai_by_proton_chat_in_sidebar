@@ -26,5 +26,7 @@ This software is distributed under the MIT License. A copy of the license is dis
 This is a fork of [duckduckgo_ai_chat_in_sidebar by @yookoala](https://github.com/yookoala/duckduckgo_ai_chat_in_sidebar), an extension with the same purpose but for Duck AI, another good option for a privacy-focused assistant. Support or contribute to they work if you like.
 
 ## Disclaimer
-⚠️ I'm not afiliated with Proton in any way. 
+
+⚠️ I'm not afiliated with Proton in any way.
+
 ⚠️ All my works are make with AI assistance as my description declare. 
