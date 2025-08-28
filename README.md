@@ -6,17 +6,20 @@ This unofficial extension allows you to open the Lumo AI chat interface on the s
 
 Contributions are welcome!
 
-[![License: MIT][badge-mit]][url-mit] [![Firefox Addon][badge-firefox]][url-firefox]
+[![Firefox Addon][badge-firefox]][url-firefox]
 
-[badge-mit]: https://img.shields.io/badge/License-MIT-blue.svg
-[url-mit]: https://opensource.org/licenses/MIT
-[badge-firefox]: https://img.shields.io/badge/Browser-Firefox-blue.svg
-[badge-firefox]: https://img.shields.io/badge/Support-Firefox-darkgreen.svg
+[badge-firefox]: https://blog.mozilla.org/addons/files/2015/11/get-the-addon-small.png
 [url-firefox]: https://addons.mozilla.org/en-US/firefox/addon/lumo-by-proton-sidebar/
 
 ## License
 
 This software is distributed under the MIT License. A copy of the license is distributed along with the source code [here](LICENSE.md).
+
+[![License: MIT][badge-mit]][url-mit]
+
+[badge-mit]: https://img.shields.io/badge/License-MIT-blue.svg
+[url-mit]: https://opensource.org/licenses/MIT
+
 
 ## Acknowledgments
 
