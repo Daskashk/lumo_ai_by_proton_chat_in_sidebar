@@ -28,9 +28,6 @@
     "default_panel": "src/sidebar.html"
   },
   "icons": {
-    "16": "src/icons/Lumo.png",
-    "32": "src/icons/Lumo.png",
-    "48": "src/icons/Lumo.png",
-    "128": "src/icons/Lumo.png"
+    "144": "src/icons/Lumo.png"
   }
 }
