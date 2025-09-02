@@ -1,3 +1,7 @@
+## 🚀 This proyect has moved to Codeberg!
+
+ New ubication: https://codeberg.org/daskashk/lumo_ai_by_proton_chat_in_sidebar
+
 # Lumo AI Chat Sidebar
 
 A new AI Chat assistant called [Lumo](https://lumo.proton.me/about) is offered by Proton. It focuses on [privacy and security](https://proton.me/legal/privacy), making it an excellent assistant for everyday tasks in your browser.
