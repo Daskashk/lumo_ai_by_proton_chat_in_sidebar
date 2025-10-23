@@ -1,12 +1,6 @@
-XPI_FILE = lumo_ai_chat_in_sidebar.xpi
-FILES = manifest.json src/*.html src/icons/*.png *.md
+lumo_ai_chat_in_sidebar.xpi: manifest.json src/*
+	@rm -f lumo_ai_chat_in_sidebar.xpi
+	zip -r lumo_ai_chat_in_sidebar.xpi manifest.json src/
+	@echo "Extension built!"
 
 .PHONY: clean
-
-$(XPI_FILE): $(FILES)
-	@rm -f $(XPI_FILE)
-	zip -r $(XPI_FILE) manifest.json src/ *.md
-	@echo "# Firefox extension package created."
-
-clean:
-	@rm -f $(XPI_FILE)
