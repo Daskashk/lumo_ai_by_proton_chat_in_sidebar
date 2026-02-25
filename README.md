@@ -32,3 +32,17 @@ For now this extension is only on firefox v90+
 ⚠️ Lumo AI and all associated icons are the intellectual property of Proton AG . This extension is not officially endorsed by or affiliated with Proton. Icons are used solely to identify integration with Lumo, respecting their trademark.
 
 ⚠️ All my works are make with AI assistance as my description declare. 
+
+## Contact
+
+If you have questions, suggestions, or want to contribute, you can contact me through:
+
+*   **Codeberg**: Just open an [issue](https://codeberg.org/daskashk/ffmpeg_screencap/issues) with your report or questions.
+*   **Matrix**: https://matrix.to/#/@narbb33:matrix.org
+
+## Especial 
+
+### Comunidad de habla hispana
+*También tengo una comunidad de habla hispana con un fuerte enfoque en libertad, privacidad y justicia a la que están invitados:*
+* *TOPIC Guild: https://matrix.to/#/#topic-guild:matrix.org*
+* *FOSSS TOPIC: https://matrix.to/#/#fosstopic:matrix.org (Espacio especializado en software libre)*
