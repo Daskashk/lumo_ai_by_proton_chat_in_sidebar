@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # lumo_ai_by_proton_chat_in_sidebar
 =======
 # Lumo AI Chat Sidebar
@@ -40,13 +39,8 @@ For now this extension is only on firefox v90+
 
 If you have questions, suggestions, or want to contribute, you can contact me through:
 
-*   **Codeberg**: Just open an [issue](https://codeberg.org/daskashk/lumo_ai_by_proton_chat_in_sidebar/issues) with your report or questions.
-*   **Matrix**: https://matrix.to/#/@narbb33:matrix.org
-
-## Especial 
+*   **Github**: Just open an [issue](https://github.com/Daskashk/lumo_ai_by_proton_chat_in_sidebar/issues) with your report or questions.
 
 ### Comunidad de habla hispana
 *También tengo una comunidad de habla hispana con un fuerte enfoque en libertad, privacidad y justicia a la que están invitados:*
-* *TOPIC Guild: https://matrix.to/#/#topic-guild:matrix.org*
-* *FOSSS TOPIC: https://matrix.to/#/#fosstopic:matrix.org (Espacio especializado en software libre)*
->>>>>>> rescate
+* *FOSS Guild: https://t.me/topicsguild*
