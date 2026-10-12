@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Lumo by Proton Sidebar",
+  "version": "1.2",
+  "description": "(Unofficial) Running Lumo by Proton privately on a browser sidebar.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{f36bdac8-e4a5-45f5-bcf0-33127a2b36ba}",
+      "strict_min_version": "90.0",
+      "data_collection_permissions": {
+       "required": ["none"]
+       }
+    }
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Ctrl+Alt+L"
+      },
+      "description": "Toggle Lumo sidebar."
+    }
+  },
+  "sidebar_action": {
+    "default_title": "Lumo AI Chat",
+    "default_panel": "src/sidebar.html",
+    "default_icon": {
+     "32": "src/icons/icon-32.png"
+    }
+  },
+  "icons": {
+    "16": "src/icons/icon-16.png",
+    "32": "src/icons/icon-32.png",
+    "48": "src/icons/icon-48.png",
+    "128": "src/icons/icon-128.png"
+  }
+}
